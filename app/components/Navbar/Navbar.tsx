@@ -38,8 +38,8 @@ const Navbar = () => {
                     {/* logo section  */}
 
                     <div  className='flex sm:hidden  flex-shrink-0 items-center border-right'  >
-                        <Image  
-                        src="https://cooking-wine.vercel.app/images/Logo/Logo.svg"   
+                        <img  
+                        src="/images/Logo/Logo.svg"   
                         alt="logo"
                         width={36}
                         height={36}
