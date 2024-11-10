@@ -17,25 +17,25 @@ interface cardDataType {
 
 const cardData: cardDataType[] = [
   {
-    imgSrc: '/images/Features/FeatureOne.svg',
+    imgSrc: '/images/Features/featureOne.svg',
     heading : 'Menu variations',
     subheading: 'Craisin relish . sweer potato butter',
     link : 'Learn more'
   },
   {
-    imgSrc: '/images/Features/FeatureTwo.svg',
+    imgSrc: '/images/Features/featureTwo.svg',
     heading : 'Cooking raw',
     subheading: 'Harissa dill vinaigretter . nobody blue labneh',
     link : 'Learn more'
   },
   {
-    imgSrc: '/images/Features/FeatureThree.svg',
+    imgSrc: '/images/Features/featureThree.svg',
     heading : 'Best Spicy',
     subheading: 'Avacado . kumqutas . quenaa curnuch',
     link : 'Learn more'
   },
   {
-    imgSrc: '/images/Features/FeatureFour.svg',
+    imgSrc: '/images/Features/featureFour.svg',
     heading : 'Fast Food',
     subheading: 'Pickled vaggies . limey-herby dressing',
     link : 'Learn more'

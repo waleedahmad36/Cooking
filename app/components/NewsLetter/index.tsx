@@ -26,7 +26,7 @@ const NewsLetter = () => {
                   <input  className='py-6 sm:py-8 text-sm w-full text-black bg-grey-900 rounded-full pl-4 par-87 focus:outline-none focus:text-black'   type='Email address'  name='q'  placeholder='@ enter your email address'  autoComplete='off'   />
                   <div  className=' absolute inset-y-0 right-0 flex items-center pr-2' >
                     <button   type='submit' className='p-1 focus:outline-none focus:shadow-outline'  >
-                      <Image  src='images/NewsLetter/arrow.svg'  alt='inputicon' width={57}  height={71}  />
+                      <Image  src='images/Newsletter/arrow.svg'  alt='inputicon' width={57}  height={71}  />
                     </button>
                   </div>
                 </div>
@@ -43,19 +43,19 @@ const NewsLetter = () => {
             </div>
 
             <div  className='absolute top-[78%]' >
-              <Image  src='/images/NewsLetter/onion.svg'  alt='Onion image' width={300} height={122} />
+              <Image  src='/images/Newsletter/onion.svg'  alt='Onion image' width={300} height={122} />
             </div>
 
             <div  className='absolute top-[30%] right-[-23%]' >
-            <Image  src='/images/NewsLetter/lec.svg'  alt='Letus-image' width={300} height={122} />
+            <Image  src='/images/Newsletter/lec.svg'  alt='Letus-image' width={300} height={122} />
             </div>
 
             <div  className='absolute bottom-[10%] left-[0%]' >
-            <Image  src='/images/NewsLetter/yellow.svg'  alt='yellow-image' width={59} height={59} />
+            <Image  src='/images/Newsletter/yellow.svg'  alt='yellow-image' width={59} height={59} />
             </div>
 
             <div  className='absolute bottom-[20%] right-[20%]' >
-            <Image  src='/images/NewsLetter/blue.svg'  alt='blue-image' width={25} height={25} />
+            <Image  src='/images/Newsletter/blue.svg'  alt='blue-image' width={25} height={25} />
             </div>
 
           </div>
