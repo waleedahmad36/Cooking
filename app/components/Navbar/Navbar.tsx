@@ -38,7 +38,7 @@ const Navbar = () => {
                     {/* logo section  */}
 
                     <div  className='flex sm:hidden  flex-shrink-0 items-center border-right'  >
-                        <img  
+                        <Image  
                         src="/images/Logo/Logo.svg"   
                         alt="logo"
                         width={36}
@@ -52,7 +52,7 @@ const Navbar = () => {
 
                     <div  className='hidden sm:flex   flex-shrink-0 items-center border-right'  >
                         <Image  
-                        src="/images/logo/logo.svg"
+                        src="/images/Logo/Logo.svg"
                         alt="logo"
                         width={36}
                         height={36}
